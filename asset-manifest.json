@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ic-pinout-diagram-generator/static/css/main.8f81bd86.chunk.css",
+    "main.js": "/ic-pinout-diagram-generator/static/js/main.45762346.chunk.js",
+    "main.js.map": "/ic-pinout-diagram-generator/static/js/main.45762346.chunk.js.map",
+    "runtime-main.js": "/ic-pinout-diagram-generator/static/js/runtime-main.45d677c1.js",
+    "runtime-main.js.map": "/ic-pinout-diagram-generator/static/js/runtime-main.45d677c1.js.map",
+    "static/js/2.6d385d1a.chunk.js": "/ic-pinout-diagram-generator/static/js/2.6d385d1a.chunk.js",
+    "static/js/2.6d385d1a.chunk.js.map": "/ic-pinout-diagram-generator/static/js/2.6d385d1a.chunk.js.map",
+    "index.html": "/ic-pinout-diagram-generator/index.html",
+    "precache-manifest.454b1ca059a862ece0feb605f5c58d7d.js": "/ic-pinout-diagram-generator/precache-manifest.454b1ca059a862ece0feb605f5c58d7d.js",
+    "service-worker.js": "/ic-pinout-diagram-generator/service-worker.js",
+    "static/css/main.8f81bd86.chunk.css.map": "/ic-pinout-diagram-generator/static/css/main.8f81bd86.chunk.css.map",
+    "static/js/2.6d385d1a.chunk.js.LICENSE.txt": "/ic-pinout-diagram-generator/static/js/2.6d385d1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45d677c1.js",
+    "static/js/2.6d385d1a.chunk.js",
+    "static/css/main.8f81bd86.chunk.css",
+    "static/js/main.45762346.chunk.js"
+  ]
+}
